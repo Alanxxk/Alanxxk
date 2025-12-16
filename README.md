@@ -14,9 +14,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 实时贡献日历热图 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
 
+<!-- 项目卡片 -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
 
-<!-- 徽章显示 -->
+<!-- 渐变色标题波浪横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Yuanhao-Zhong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+
+<!-- 彩色分隔符 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+<!-- 动态徽章 -->
+[![Sponsor me](https://img.shields.io/badge/%E2%9D%A4%20Like%20this%20plugin%3F-Sponsor%20me!-ff69b4)](https://github.com/sponsors/scambier)  
+![Obsidian plugin](https://img.shields.io/endpoint?url=https%3A%2F%2Fscambier.xyz%2Fobsidian-endpoints%2Fomnisearch.json)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/scambier/obsidian-omnisearch/latest/main.js)  
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/scambier/obsidian-omnisearch)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/scambier/obsidian-omnisearch?include_prereleases&label=BRAT%20beta)
+
+<!-- 名片显示 -->
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
+
+<!-- 静态徽章 -->
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
@@ -28,6 +50,7 @@ Here are some ideas to get you started:
 
 <!-- 打字机显示 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 
 <!-- 网络安全学习平台 -->
 <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
@@ -47,13 +70,18 @@ Here are some ideas to get you started:
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
+<!-- 贪吃蛇活动图表（自动切换颜色） -->
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+
 <!-- 个人信息 -->
 ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true)
 
 <!-- 仓库语言 -->
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
 
-<!-- 贡献连续天数 -->
+<!-- 连续贡献天数 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
 <!-- 联系图标 -->
@@ -76,17 +104,4 @@ Here are some ideas to get you started:
 <!-- 开源许可证 -->
 [MIT](LICENSE)
 
-<!-- 个人名片简介 -->
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
-<!-- 2D+3D活动图表 -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-<!-- 项目语言曲线 -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-</p>
-<!-- 访客数量 -->
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+
